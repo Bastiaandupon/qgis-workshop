@@ -1,0 +1,24 @@
+<!DOCTYPE connections>
+<qgsWFSConnections version="1.0">
+    <wfs url="https://map.data.amsterdam.nl/maps/afval" username="" name="Data Amsterdam Afvalbakken (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/bag?" username="" name="Data Amsterdam BAG (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/bgtobjecten?" username="" name="Data Amsterdam BGT (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/brk?" username="" name="Data Amsterdam BRK (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/bodem?" username="" name="Data Amsterdam Bodem (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/bommenkaart?" username="" name="Data Amsterdam Bommenkaart (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/gebieden?" username="" name="Data Amsterdam Gebieden (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/grondexploitatie?" username="" name="Data Amsterdam Grondexploitatie (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/handelsregister?" username="" name="Data Amsterdam Handelsregister (WFS 2.0)  - Amsterdam only" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/meetbouten?" username="" name="Data Amsterdam Meetbouten (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/monumenten?" username="" name="Data Amsterdam Monumenten (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/nap?" username="" name="Data Amsterdam NAP (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/overlastgebieden?" username="" name="Data Amsterdam Overlastgebieden (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/panorama?" username="" name="Data Amsterdam Panoramabeelden (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/parkeervakken?" username="" name="Data Amsterdam Parkeervakken (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/planologischegeluidszones?" username="" name="Data Amsterdam Planologische Geluidszones (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/planologischegeluidszones?" username="" name="Data Amsterdam Planologische Zones Schiphol (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/predictiveparking?" username="" name="Data Amsterdam Predictiveparking (WFS 2.0) - Amsterdam only" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/tellussen?" username="" name="Data Amsterdam Tellus (WFS 2.0) - Amsterdam only" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/trm" username="" name="Data Amsterdam Tram &amp; Metro lijnen (WFS 2.0)" referer="" password=""/>
+    <wfs url="https://map.data.amsterdam.nl/maps/wkpb?" username="" name="Data Amsterdam WKPB (WFS 2.0)" referer="" password=""/>
+</qgsWFSConnections>
