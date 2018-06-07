@@ -7,7 +7,10 @@ Als je dit nog niet gedaan hebt:
 Download alle bestanden door op knop **[Clone or download]** daarna **[Download ZIP]**.
 
 Wat kan je vinden in deze repository:
-- Alle api's van amsterdam voor (geo) webservices zijn te vinden op:
-https://api.data.amsterdam.nl/api/ te vinden in de **_connection_** map
+- Handleiding workshop
+- Data (GeoPackage)
+- alle wfs/wms services van amsterdam in xml
+https://api.data.amsterdam.nl/api/
+
 
  
